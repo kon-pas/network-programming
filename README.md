@@ -25,7 +25,7 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 > **Note**
 > Works only on Linux.
 
-1. Simple TCP Server
+1. [Simple TCP Server](/tcp_simple-server_in-c/)
 2. Simple TCP Client
 3. Simple UDP Server
 4. Simple UDP Client
