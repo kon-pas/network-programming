@@ -2,7 +2,7 @@
 > Made for Network Programming Course at Jagiellonian University in Q1 2022.
 
 > **Note**
-> Some programs work only on Linux.
+> Certain programs work only on Linux.
 
 # Network Programming <!-- omit in toc -->
 
@@ -17,4 +17,11 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 
 ## Full list
 
-1. Simple TCP server written in C
+1. Written in C
+   Works only on Linux
+   1. Simple TCP server
+   2. Simple TCP client
+   3. Simple UDP server
+   4. Simple UDP client
+2. Written in Python
+3. Written in Node.js
