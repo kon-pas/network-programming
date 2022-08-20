@@ -26,10 +26,10 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 > Works only on Linux.
 
 1. [Simple TCP Server](/tcp_simple-server_in-c/)
-2. Simple TCP Client
-3. Simple UDP Server
-4. Simple UDP Client
-5. UDP-based Sum Protocol
+2. [Simple TCP Client](/tcp_simple-client_in-c/)
+3. [Simple UDP Server](/udp_simple-server_in-c/)
+4. [Simple UDP Client](/udp_simple-client_in-c/)
+5. [UDP-based Sum Protocol](/udp_sum-protocol_in-c/)
 
 ### Written in Node.js
 
