@@ -1,7 +1,7 @@
 > **Note**
 > Made for Network Programming Course at Jagiellonian University in Q1 2022.
 
-> **Note**
+> **Warning**
 > Certain programs work only on Linux.
 
 # Network Programming <!-- omit in toc -->
@@ -22,7 +22,7 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 
 ### Written in C
 
-> **Note**
+> **Warning**
 > Works only on Linux.
 
 1. [Simple TCP Server](/tcp_simple-server_in-c/)
