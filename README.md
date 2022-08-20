@@ -38,5 +38,6 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 ### Written in Python
 
 1. TCP-based Sum Protocol
-2. HTTP-based Website Validator
-3. HTTP-based Website Scrapper
+2. Simple HTTP Requests
+3. HTTP-based Website Validator
+4. HTTP-based Website Scrapper
