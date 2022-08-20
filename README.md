@@ -33,12 +33,12 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 
 ### Written in Node.js
 
-1. TCP-based Sum Protocol
+1. [TCP-based Sum Protocol](/tcp_sum-protocol_in-node/)
 
 ### Written in Python
 
-1. TCP-based Sum Protocol
-2. Simple HTTP Requests
-3. HTTP-based Website Validator
-4. HTTP-based Website Scrapper
-5. HTTP-based Data Fetcher
+1. [TCP-based Sum Protocol](/tcp_sum-protocol_in-python/)
+2. [Simple HTTP Requests](/http_simple-requests_in-python/)
+3. [HTTP-based Website Validator](/http_website-validator_in-python/)
+4. [HTTP-based Website Scrapper](/http_website-scrapper_in-python/)
+5. [HTTP-based Data Fetcher](/http_data-fetcher_in-python/)
