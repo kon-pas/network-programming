@@ -11,7 +11,7 @@
 - [Description](#description)
 - [Full list](#full-list)
   - [Written in C (works only on Linux)](#written-in-c-works-only-on-linux)
-  - [Written in Python 3.10](#written-in-python-310)
+  - [Written in Python](#written-in-python)
   - [Written in Node.js](#written-in-nodejs)
 
 ## Description 
@@ -25,11 +25,12 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 > **Note**
 > Works only on Linux.
 
-1. Simple TCP server
-2. Simple TCP client
-3. Simple UDP server
-4. Simple UDP client
+1. Simple TCP Server
+2. Simple TCP Client
+3. Simple UDP Server
+4. Simple UDP Client
+5. UDP-based Sum Protocol
 
-### Written in Python 3.10
+### Written in Python
 
 ### Written in Node.js
