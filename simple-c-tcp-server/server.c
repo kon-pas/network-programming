@@ -1,11 +1,3 @@
-// Napisz prosty serwer zwracający wizytówkę. Powinien tworzyć gniazdko TCP
-// nasłuchujące na porcie o numerze podanym jako argv[1] (użyj socket, bind i listen),
-// następnie w pętli czekać na przychodzące połączenia (accept),
-// wysyłać ciąg bajtów Hello, world!\r\n jako swoją wizytówkę,
-// zamykać odebrane połączenie i wracać na początek pętli.
-// Pętla ma działać w nieskończoność, aby przerwać działanie
-// programu trzeba będzie użyć Ctrl-C.
-
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
