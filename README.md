@@ -18,6 +18,7 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 ## Full list
 
 1. Written in C (works only on Linux)
+   - Lorem 
   - Simple TCP server
   - Simple TCP client
   - Simple UDP server
