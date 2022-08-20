@@ -10,7 +10,7 @@
 
 - [Description](#description)
 - [Full list](#full-list)
-  - [Written in C (works only on Linux)](#written-in-c-works-only-on-linux)
+  - [Written in C](#written-in-c)
   - [Written in Node.js](#written-in-nodejs)
   - [Written in Python](#written-in-python)
 
@@ -20,7 +20,7 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 
 ## Full list
 
-### Written in C (works only on Linux)
+### Written in C
 
 > **Note**
 > Works only on Linux.
@@ -38,3 +38,4 @@ Selected Network Related Programs made for Network Programming Course at Jagiell
 ### Written in Python
 
 1. TCP-based Sum Protocol
+2. HTTP-based Website Validator
